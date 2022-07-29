@@ -4,10 +4,10 @@ Relative grading is a system of assessment whereby teachers in some university a
 ### Steps to calculate relative grading are mentioned below:
 ###### 1) Calculate the Average(a) and the Standard Deviation(sd) of the data.
 ###### 2) Grades:
-####### o (a + 1.5*sd)
-####### a+ (a + 1.0*sd)
-####### a (a + 0.5*sd)
-####### b+ (a)
-####### b (a - 0.5*sd)
-####### c (a - 1.0*sd)
-####### p (a - 1.5*sd)
+###### o (a + 1.5*sd)
+###### a+ (a + 1.0*sd)
+###### a (a + 0.5*sd)
+###### b+ (a)
+###### b (a - 0.5*sd)
+###### c (a - 1.0*sd)
+###### p (a - 1.5*sd)
